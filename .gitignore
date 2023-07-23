@@ -12,6 +12,7 @@ deploy-options.json
 manifest/
 delta/
 devops-work/
+devops/
 
 
 # LWC VSCode autocomplete
